@@ -1,5 +1,3 @@
-Here is a sample README.md file for your Python script:
-
 ---
 # Python Web Scraper
 
@@ -51,4 +49,3 @@ This script should be used responsibly and in accordance with laws and regulatio
 
 ---
 
-Remember to replace "script_name.py" with the actual name of your Python script.
